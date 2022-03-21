@@ -1,0 +1,9 @@
+const About = () => {
+    return (  
+        <div>
+            <h1>Lorem, ipsum dolor sit amet consectetur Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus Lorem, ipsum dolor sit amet consectet ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus  adipisicing elit. Non libero mollitia pariatur sit voluptatibus.Lorem, ipsum dolor sit amet consectetur Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus Lorem, ipsum dolor sit amet consectet ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus  adipisicing elit. Non libero mollitia pariatur sit voluptatibus.Lorem, ipsum dolor sit amet consectetur Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus Lorem, ipsum dolor sit amet consectet ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus  adipisicing elit. Non libero mollitia pariatur sit voluptatibus.Lorem, ipsum dolor sit amet consectetur Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus Lorem, ipsum dolor sit amet consectet ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non libero mollitia pariatur sit voluptatibus  adipisicing elit. Non libero mollitia pariatur sit voluptatibus.</h1>
+        </div>
+    );
+}
+ 
+export default About;
